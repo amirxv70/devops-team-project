@@ -1,0 +1,2 @@
+Login page: username and password fields
+Added simple authentication description
